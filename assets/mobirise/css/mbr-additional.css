@@ -1477,6 +1477,36 @@ body {
 .cid-rmAE6nUkog .mbr-section-subtitle B {
   color: #232323;
 }
+.cid-rmMtoosEus {
+  padding-top: 0px;
+  padding-bottom: 30px;
+  background-color: #232323;
+}
+.cid-rmMtoosEus .card-wrapper {
+  z-index: 3;
+}
+.cid-rmMtoosEus .card-wrapper .mbr-section-title {
+  letter-spacing: 1px;
+  transition: all 2.5s cubic-bezier(0, 0.74, 0.52, 1.2);
+}
+.cid-rmMtoosEus:hover .mbr-section-title {
+  letter-spacing: 10px;
+}
+.cid-rmMtoosEus .full-link {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  font-size: 0;
+  z-index: 2;
+}
+.cid-rmMtoosEus .popup-btn.card-wrapper {
+  z-index: 1 !important;
+}
+.cid-rmMtoosEus .text-block {
+  text-align: right !important;
+}
 .cid-rlmWR2oaRz {
   padding-top: 60px;
   padding-bottom: 45px;
@@ -1632,7 +1662,6 @@ body {
 .cid-rlmfV5YjnF {
   padding-top: 75px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/background10.jpg");
 }
 .cid-rlmfV5YjnF .content-row {
   -webkit-flex-direction: row-reverse;
@@ -1746,6 +1775,11 @@ body {
 }
 .cid-rlpoQY7ZEf .signature B {
   color: #232323;
+}
+.cid-rmMkYueI1H {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/photo-2019-03-04-00-25-14-2-1280x853.jpg");
 }
 .cid-rlmDhkbcwk {
   padding-top: 60px;
@@ -1891,7 +1925,7 @@ body {
   }
 }
 .cid-rmH7fS6fxV .footer-main-title B {
-  color: #ca4336;
+  color: #ec6963;
 }
 .cid-rmH7fS6fxV .footer-title {
   color: #ca4336;
