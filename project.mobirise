@@ -41,8 +41,9 @@
     "cookiesAlert": "",
     "gdpr": "",
     "google-analytics": "",
-    "siteUrl": "",
-    "sitemapSwitcherAuto": "on"
+    "siteUrl": "https://thetaekguy.com/",
+    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
